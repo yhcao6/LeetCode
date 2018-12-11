@@ -1,0 +1,2 @@
+# LeetCode
+Exercise for cpp
