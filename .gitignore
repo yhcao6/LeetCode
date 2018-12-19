@@ -34,3 +34,11 @@
 *.app
 
 /cmake-build-debug/
+
+/.idea/.name
+/.idea/encodings.xml
+/.idea/LeetCode.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
