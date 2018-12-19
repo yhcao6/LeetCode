@@ -2,15 +2,16 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="EASY" targetName="14-longestCommonPrefix" />
-      <config projectName="EASY" targetName="53-Maximum-Subarray" />
-      <config projectName="EASY" targetName="1-twoSum" />
-      <config projectName="EASY" targetName="26-removeDuplicateSortedArray" />
-      <config projectName="EASY" targetName="13-romanToInteger" />
       <config projectName="EASY" targetName="9-palindromeNumber" />
+      <config projectName="EASY" targetName="27-removeElement" />
+      <config projectName="EASY" targetName="58-lengthOfLastWorld" />
+      <config projectName="EASY" targetName="1-twoSum" />
+      <config projectName="EASY" targetName="14-longestCommonPrefix" />
       <config projectName="EASY" targetName="35-searchInsertPosition" />
       <config projectName="EASY" targetName="28-strStr" />
-      <config projectName="EASY" targetName="27-removeElement" />
+      <config projectName="EASY" targetName="26-removeDuplicateSortedArray" />
+      <config projectName="EASY" targetName="13-romanToInteger" />
+      <config projectName="EASY" targetName="53-Maximum-Subarray" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -19,8 +20,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3a4050f-4623-4d9e-a030-ec6dc1f47b72" name="Default Changelist" comment="test clion git">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="d3a4050f-4623-4d9e-a030-ec6dc1f47b72" name="Default Changelist" comment="58: Length of Last Word">
+      <change afterPath="$PROJECT_DIR$/easy/58-lengthOfLastWorld.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
@@ -35,20 +36,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/easy/58-lengthOfLastWorld.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="243">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -64,11 +56,12 @@
         <option value="$PROJECT_DIR$/easy/38-countAndSay.cpp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/easy/58-lengthOfLastWorld.cpp" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="124" />
+    <option name="x" value="285" />
     <option name="y" value="23" />
     <option name="width" value="1112" />
     <option name="height" value="832" />
@@ -87,6 +80,11 @@
             <path>
               <item name="EASY" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EASY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -121,7 +119,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.53-Maximum-Subarray">
+  <component name="RunManager" selected="Application.58-lengthOfLastWorld">
     <configuration name="1-twoSum" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EASY" TARGET_NAME="1-twoSum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EASY" RUN_TARGET_NAME="1-twoSum">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -162,6 +160,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="58-lengthOfLastWorld" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EASY" TARGET_NAME="58-lengthOfLastWorld" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EASY" RUN_TARGET_NAME="58-lengthOfLastWorld">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="9-palindromeNumber" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EASY" TARGET_NAME="9-palindromeNumber" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EASY" RUN_TARGET_NAME="9-palindromeNumber">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -176,6 +179,7 @@
       <item itemvalue="Application.28-strStr" />
       <item itemvalue="Application.35-searchInsertPosition" />
       <item itemvalue="Application.53-Maximum-Subarray" />
+      <item itemvalue="Application.58-lengthOfLastWorld" />
       <item itemvalue="Application.9-palindromeNumber" />
     </list>
   </component>
@@ -192,18 +196,18 @@
       <workItem from="1545205764863" duration="205000" />
       <workItem from="1545205979151" duration="1463000" />
       <workItem from="1545207500499" duration="41000" />
-      <workItem from="1545207554833" duration="380000" />
+      <workItem from="1545207554833" duration="1237000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2089000" />
+    <option name="totallyTimeSpent" value="2946000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="124" y="23" width="1112" height="832" extended-state="0" />
+    <frame x="285" y="23" width="1112" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2635514" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2635514" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -227,6 +231,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="58: Length of Last Word" />
+    <option name="LAST_COMMIT_MESSAGE" value="58: Length of Last Word" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/easy/9-palindromeNumber.cpp">
@@ -331,17 +339,24 @@
     <entry file="file://$PROJECT_DIR$/Makefile">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/58-lengthOfLastWorld.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>
