@@ -11,8 +11,8 @@ public:
         vector<int> res;
         digits[digits.size() - 1] += 1;
         int carry = 0;
-        for (int i = digits.size() - 1; i >= 0; i--){
-            if (digits[i] + carry == 10){
+        for (int i = digits.size() - 1; i >= 0; i--) {
+            if (digits[i] + carry == 10) {
                 carry = 1;
                 res.push_back(0);
             } else {
