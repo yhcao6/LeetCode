@@ -1,1 +1,0 @@
-/Users/yuhangcao/anaconda3/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/28-strStr.dir/easy/28-strStr.cpp.o  -o 28-strStr 

@@ -1,1 +1,0 @@
-/Users/yuhangcao/anaconda3/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/35-searchInsertPosition.dir/easy/35-searchInsertPosition.cpp.o  -o 35-searchInsertPosition 
