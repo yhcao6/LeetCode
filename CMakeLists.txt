@@ -12,5 +12,4 @@ add_executable(26-removeDuplicateSortedArray easy/26-removeDuplicateSortedArray.
 add_executable(27-removeElement easy/27-removeElement.cpp)
 add_executable(28-strStr easy/28-strStr.cpp)
 add_executable(35-searchInsertPosition easy/35-searchInsertPosition.cpp)
-
 add_executable(53-Maximum-Subarray easy/53-Maximum-Subarray.cpp)
