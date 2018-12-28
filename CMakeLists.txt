@@ -22,3 +22,4 @@ add_executable(83-removeDuplicatesFromSortedList easy/83-removeDuplicatesFromSor
 add_executable(88-mergeSortedArray easy/88-mergeSortedArray.cpp)
 add_executable(100-sameTree easy/100-sameTree.cpp)
 add_executable(101-symmetricTree easy/101-symmetricTree.cpp)
+add_executable(104-maximumDepthOfBinaryTree easy/104-maximumDepthOfBinaryTree.cpp)
