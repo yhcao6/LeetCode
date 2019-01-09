@@ -25,3 +25,5 @@ add_executable(101-symmetricTree easy/101-symmetricTree.cpp)
 add_executable(104-maximumDepthOfBinaryTree easy/104-maximumDepthOfBinaryTree.cpp)
 add_executable(107-binaryTreeLevelOrderTravelsal easy/107-binaryTreeLevelOrderTravelsal.cpp)
 add_executable(108-convertSortedArrayToBinarySearchTree easy/108-convertSortedArrayToBinarySearchTree.cpp dataType/TreeNode.cpp utils/prettyPrintTree.cpp)
+
+add_executable(110-balancedBinaryTree easy/110-balancedBinaryTree.cpp dataType/TreeNode.cpp)
