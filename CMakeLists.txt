@@ -27,3 +27,4 @@ add_executable(107-binaryTreeLevelOrderTravelsal easy/107-binaryTreeLevelOrderTr
 add_executable(108-convertSortedArrayToBinarySearchTree easy/108-convertSortedArrayToBinarySearchTree.cpp dataType/TreeNode.cpp utils/prettyPrintTree.cpp)
 
 add_executable(110-balancedBinaryTree easy/110-balancedBinaryTree.cpp dataType/TreeNode.cpp)
+add_executable(118-PascalTriangle easy/118-PascalTriangle.cpp)
